@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// Iteratively
+// Iteratively Traversal
 int Traversal_Iteratively(Node *head ,int data){
     Node *curr = head ;
     int pos = 1;
